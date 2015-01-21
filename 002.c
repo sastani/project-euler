@@ -19,6 +19,7 @@ int main ( void )
 	}
 	
 	}
+	printf("The sum of all even valued terms under %d of the fibonacci sequence is:\n%d ", MAX, sum);
 
 	return 0;
 }
