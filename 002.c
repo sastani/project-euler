@@ -20,7 +20,5 @@ int main ( void )
 	
 	}
 
-	printf("The result of adding all even numbers of the fib sequence under 4000 is %d", sum);
-	
 	return 0;
 }
