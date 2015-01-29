@@ -1,4 +1,4 @@
-public class squares{
+public class six{
   
   public static void main(String args[]){
     int x, y;
