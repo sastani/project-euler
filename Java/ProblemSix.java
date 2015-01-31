@@ -1,5 +1,4 @@
-public class problemsix{
-  
+public class ProblemSix{
   public static void main(String args[]){
     int x, y;
     int sumofsq=0;
