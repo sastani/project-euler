@@ -9,8 +9,8 @@ public class ProblemSeven
 		{
 			for (y=2; y<x; y++)
 			{
-			if (x%y==0)
-				break;
+				if (x%y==0)
+					break;
 			}
 			if (y==x)
 				count++;
