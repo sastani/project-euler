@@ -1,5 +1,7 @@
-public class ProblemSeven{
-	public static void main(String args[]){
+public class ProblemSeven
+{
+	public static void main(String args[])
+	{
 		int x, y, count;
 		x=3; 
 		count=1;
