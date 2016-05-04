@@ -7,7 +7,6 @@ public class ProblemFive
 		number=1;
 		boolean divisible=false;
 		
-		
 		while (divisible==false)
 		{
 			for(int i=1; i<21; i++)
